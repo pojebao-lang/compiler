@@ -1,0 +1,11 @@
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\bin\Debug\netcoreapp3.1\pojebao-compiler.exe
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\bin\Debug\netcoreapp3.1\pojebao-compiler.deps.json
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\bin\Debug\netcoreapp3.1\pojebao-compiler.runtimeconfig.json
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\bin\Debug\netcoreapp3.1\pojebao-compiler.runtimeconfig.dev.json
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\bin\Debug\netcoreapp3.1\pojebao-compiler.dll
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\bin\Debug\netcoreapp3.1\pojebao-compiler.pdb
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\obj\Debug\netcoreapp3.1\pojebao-compiler.csprojAssemblyReference.cache
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\obj\Debug\netcoreapp3.1\pojebao-compiler.AssemblyInfoInputs.cache
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\obj\Debug\netcoreapp3.1\pojebao-compiler.AssemblyInfo.cs
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\obj\Debug\netcoreapp3.1\pojebao-compiler.dll
+D:\projektywvs\pojebao-lang\pojebao-compiler\pojebao-compiler\obj\Debug\netcoreapp3.1\pojebao-compiler.pdb
