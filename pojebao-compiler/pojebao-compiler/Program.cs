@@ -7,25 +7,31 @@ namespace pojebao_compiler
     {
         static void Main(string[] args)
         {
-            if(args[0].EndsWith(".pjb"))
+            if (args.Length <= 0)
             {
-                string code = File.ReadAllText(args[0]);
-                Array kod = code.Split("\n");
-                foreach (string line in kod)
-                {
-                    if (1 == 2)
-                    {
-                        // command code
-                    }
-                    else
-                    {
-                        Console.Write("Error: Command " + line + " not recognized!");
-                    }
-                }
-            } else
-            {
-                Console.Write("Error: The file does not have the .pjb extension");
+                Console.Write("Error: No file provided!");
+                Environment.Exit(1);
             }
+            if (!args[0].EndsWith(".pjb"))
+            {
+                Console.Write("Error: The file does not have the .pjb extenstion!");
+                Environment.Exit(1);
+            }
+            
+            string code = File.ReadAllText(args[0]);
+            Array kod = code.Split("\n");
+            foreach (string line in kod)
+            {
+                if (1 == 2)
+                {
+                    // command code
+                }
+                else
+                {
+                    Console.Write("TypeError: " + line + " not recognized!");
+                }
+            }
+
         
         }
     }
